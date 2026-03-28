@@ -1,3 +1,8 @@
+# Project: SPFM Finance Dashboard
+# Developed by: Krishna Arora
+# Year: 2026
+# Description: Personal Finance Management and Analytics Dashboard for tracking income, expenses, and financial insights
+# GitHub: https://github.com/ErKrishnaarora
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
